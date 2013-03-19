@@ -1,0 +1,1 @@
+This is a simple breakout board for a T.I. TLC5928-DBQ-R SMD component.
